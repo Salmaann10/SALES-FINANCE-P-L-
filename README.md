@@ -1,4 +1,5 @@
 # Sales Report & Finance Report for AtliQ Hardware
+Improved P&L reporting efficiency by 30%. [Excel | Pivot Table | Power Query]
 
 ## Sales Report :
 
