@@ -1,55 +1,46 @@
-# SALES-FINANCE-P-L-
-# Sales Report and Finance P&L Report
+# Sales Report & Finance Report for AtliQ Hardware
 
-## Project Overview
+## Sales Report :
 
-This repository contains the Excel-based Sales Report and Finance P&L Report project I completed as part of the Codebasics course. The project uses a dataset from AtliQ hardware, containing over half a million records, to perform comprehensive sales and financial analysis.
 
-## Table of Contents
+- **Project objective:** 
 
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Sales Report](#sales-report)
-- [Finance P&L Report](#finance-p--l-report)
-- [Skills and Tools Used](#skills-and-tools-used)
-- [Business Terms Learned](#business-terms-learned)
-- [Acknowledgements](#acknowledgements)
+    **1.** Create a _[customer performance report](https://github.com/Naveen-S6/AtliQ_Hardware_Sales_Report_Excel/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-## Dataset
+    **2.** Conduct a comprehensive comparison between _[market performance vs sales targets](https://github.com/Naveen-S6/AtliQ_Hardware_Sales_Report_Excel/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
 
-The dataset is sourced from AtliQ hardware and includes extensive records from 2019 to 2021. It provides detailed information on sales performance, market targets, product sales, and financial metrics.
+- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
-## Sales Report
+- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
-1. **Net Sales:**
-   - Created a report on Customer Net Sales performance for AtliQ from 2019 to 2021 based on region, country, and division.
+- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-2. **Market Performance vs Target:**
-   - Developed a report to calculate the performance of the market by region and division and evaluated if the performance met AtliQ's targets.
 
-3. **Assigned Reports:**
-   - Generated additional reports, including:
-     - Top 10 products by sales
-     - Sales of new products in 2021
-     - Sales of top 5 countries in 2021
+## Finance Report :
 
-## Finance P&L Report
+- **Project objective:** 
 
-1. **P&L by Fiscal Year:**
-   - Created a profit and loss report for fiscal years 2019 to 2021, calculating metrics such as Net Sales, Cost of Goods Sold (COGS), Gross Margin, and Gross Margin %. This report also highlighted the growth percentage between 2021 and 2020.
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Naveen-S6/AtliQ_Hardware_Sales_Report_Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/Naveen-S6/AtliQ_Hardware_Sales_Report_Excel/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
 
-2. **P&L by Fiscal Months:**
-   - Developed a profit and loss report for fiscal months (Sept-Aug), calculating metrics like Net Sales, COGS, Gross Margin, and Gross Margin % for each month. This report was segmented by individual fiscal years from 2019 to 2021.
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Naveen-S6/AtliQ_Hardware_Sales_Report_Excel/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
-## Skills and Tools Used
+- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
-- **Excel Functions:**
-  - VLOOKUP, INDEXMATCH, XLOOKUP
-- **Data Cleaning and Transformation:**
-  - Power Query
-- **Data Analysis:**
-  - Pivot Tables, Power Pivot, DAX
-- **Financial Metrics:**
-  - Net Sales, COGS, Gross Margin, Gross Margin %
-- **ETL Process:**
-  - Extract, Transform, Load
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+
+- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+
+
+## Technical Skills Gained:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
+
+## Soft Skills Gained:
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
